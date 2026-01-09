@@ -1,4 +1,6 @@
 # coffee-analytics-dashboard
+https://github.com/safna0845-cpu/coffee-sales-analysis/blob/main/coffee.jpeg?raw=true
+
 Coffee Sales Dashboard created using Excel, featuring data cleaning, monthly &amp; yearly performance analysis, coffee-type insights, region-wise trends, KPI cards, and fully interactive slicers. Ideal for understanding sales patterns and business performance
 ☕ Coffee Sales Data Analysis Dashboard
 
